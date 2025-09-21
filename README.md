@@ -12,10 +12,7 @@
 ## connect with me
 <p align="left"> 
 
-<p align="center">
-  <a href="gmailto:akashmole1@gmail.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="akash mole gmail" height="30" width="40" />
-  </a>
+<p align="left">
   <a href="https://github.com/akash2546" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="akash mole github" height="30" width="40" />
   </a>
@@ -56,21 +53,6 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-Projects3
-&show_icons=true&locale=en&layout=compact" alt="Akash-mole" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash-Projects3
-&" alt="akash-mole" /></p>
-
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akash2546&show_icons=true&locale=en&layout=compact&theme=radical" alt="akash mole top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akash2546&theme=radical" alt="akash mole streak stats" />
-</p>
----
 
 
 <p align="center">
