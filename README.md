@@ -1,58 +1,78 @@
-<p align="center">
-  <img src="https://github.com/akash2546/akash2546/blob/main/profile-header.png" alt="Header Image" width="100%"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Akash Mole</h1>
-<p align="center">
-  <em>Full Stack Developer | Machine Learning Enthusiast | Automation & DevOps</em>
-</p>
+- <h3 align="center">Crafting code with logic and creativity</h3>
 
-<p align="center">
-  <a href="mailto:akashmole1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/akash2546"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/akash-mole/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://t.me/akash_mole"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-</p>
+- 🌱 **Currently Learning**: Advanced ML, DevOps, Automation, Data Structures and Algorithms
+
+
+
+
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 **Education**: B.Tech CSE (MVJ College of Engineering, Bengaluru)
-- 💼 **Internship**: Winsoft Solutions – Full Stack Development
-- 🌱 **Currently Learning**: Advanced ML, DevOps, Automation
-- 🛠 **Skills**: Python, Java, C, SQL, Full Stack Development, ML, Docker, n8n, Web Development, DBMS
+## connect with me
+<p align="left"> 
+
+<p align="center">
+  <a href="gmailto:akashmole1@gmail.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="akash mole gmail" height="30" width="40" />
+  </a>
+  <a href="https://github.com/akash2546" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="akash mole github" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/akash-mole/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash mole linkedin" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/mr_akash_reddy___?igsh=MTI3cDRtdmN1N2Fz" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akash mole instagram" height="30" width="40" />
+  </a>
+</p>
 
 ---
 
 ## 🛠 Skills & Tools
-
-<p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img alt="C" src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img alt="SQL" src="https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img alt="n8n" src="https://img.shields.io/badge/-n8n-FF470F?style=for-the-badge&logo=n8n&logoColor=white"/>
-  <img alt="ML" src="https://img.shields.io/badge/-Machine%20Learning-FF6F61?style=for-the-badge"/>
+<p align="left"> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
+  </a> 
+  </a> 
+    </a> 
+ 
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> 
+  </a> 
+  <a href="https://n8n.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" alt="n8n" width="40" height="40"/> 
+  </a> 
 </p>
 
----
 
-## 📊 GitHub Stats
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-Projects3
+&show_icons=true&locale=en&layout=compact" alt="Akash-mole" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash-Projects3
+&" alt="akash-mole" /></p>
+
+---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akash2546&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akash2546&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akash2546&show_icons=true&locale=en&layout=compact&theme=radical" alt="akash mole top languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akash2546&theme=radical" alt="akash mole streak stats" />
+</p>
 ---
 
-## 📫 To Reach Me
-- Email: akashmole1@gmail.com  
-- LinkedIn: [Akash Mole](https://www.linkedin.com/in/akash-mole/)  
-- Telegram: [@akash_mole](https://t.me/akash_mole)
-
----
 
 <p align="center">
-  <em>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</em>
+  <em>“Code is like humor. When you have to explain it, it’s bad.”</em>
 </p>
