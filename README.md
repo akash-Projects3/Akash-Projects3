@@ -11,13 +11,12 @@
 
 ## connect with me
 <p align="left"> 
+  
 
 <a href="gmailto:akashmole1@gmail.com" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg"
        alt="gmail" height="40" width="40" />
-</a>
-
-
+   </a>
   <a href="https://www.linkedin.com/in/akash-mole/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash mole linkedin" height="30" width="40" />
   </a>
