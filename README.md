@@ -12,10 +12,11 @@
 ## connect with me
 <p align="left"> 
 
-<p align="left">
-  <a href="https://github.com/akash2546" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="akash mole github" height="30" width="40" />
-  </a>
+<a href="mailto:akashmole1@gmail.com" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg"
+       alt="gmail" height="40" width="40" />
+</a>
+
   <a href="https://www.linkedin.com/in/akash-mole/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash mole linkedin" height="30" width="40" />
   </a>
