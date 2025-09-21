@@ -13,7 +13,7 @@
 <p align="left"> 
   
 
-<a href="gmailto:akashmole1@gmail.com" target="blank">
+<a href="https://www.mailto:akashmole1@gmail.com" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg"
        alt="gmail" height="40" width="40" />
    </a>
